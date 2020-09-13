@@ -129,7 +129,7 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
+                   WhatsApp : 03478239915
 \033[1;96mAuthor  \033[1;93m: \033[1;92m KHoMi Rajput
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_FaHaD_GhaFoR_ka_bhai
 \033[1;96mFacebook  \033[1;93m: \033[1;92m KHomi Rajput
